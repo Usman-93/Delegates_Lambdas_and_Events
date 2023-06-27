@@ -6,7 +6,7 @@ namespace Lesson1
     internal class Program
     {
 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             DelPointer del = new DelPointer(Greeting);
 
